@@ -26,6 +26,7 @@ This Python script processes an mRNA sequence by removing introns and appending 
 2. Prepare two text files:
    - One containing the **mRNA sequence** (e.g., `mRNA.txt`).
    - One containing the **intron sequence** (e.g., `intron.txt`).
+   - Example files have been added for you to play around with but feel free to add your own files
 3. Run the script, and provide the file names when prompted:
 
 ```bash
